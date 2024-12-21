@@ -1,13 +1,27 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
+[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/Kapil987)
 <h1 align="center">Hi there 👋, I'm Akash Dalvi</h1>
-<h3 align="center">A passionate Full-stack Web developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
+
+<h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1400&height=120&lines=🔧+Building+pipelines+so+smooth,+they+practically+butter+your+toast+🍞;🤝+Let's+connect+🌐" alt="Typing SVG" /> </a>
+</h1>
+
 <h4>I love to entire process of developing creative websites.I love to challange of finding caches and spending time to meet new peoples.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 💬 Ask me about **JavaScript, react, Java, Web Development, Spring**
+- 🔭 I’m currently working on [Terraform Hands-On](https://github.com/akash-dalvi22)
 
-- 📫 How to reach me **akashdalvi551@gmail.com**
+- 🌱 I’m currently learning **DevOps Best Practices**
+
+- 👯 I’m looking to collaborate on [Docker and Kubernetes](https://github.com/akash-dalvi22)
+
+- 👨‍💻 All of my projects are available at [https://github.com/akash-dalvi22](https://github.com/akash-dalvi22)
+
+- 💬 Ask me about **BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
+
+- 📫 How to reach me **akashdalvi341@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Gf0I0dIi8W-ko66CSBpwqkelBS1zc2kf/view?usp=drive_link](https://drive.google.com/file/d/1Gf0I0dIi8W-ko66CSBpwqkelBS1zc2kf/view?usp=drive_link)
 
